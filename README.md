@@ -1,4 +1,4 @@
-## 🔍 InterroSense: Scenario-Based AI-Powered Criminal Interrogation System
+## 🔍 InterroSense: Scenario-Based AI-Driven Criminal Interrogation System with Real-Time Micro-Expression Analysis
 
 **InterroSense** is a next-generation, AI-driven criminal interrogation support system that integrates **adaptive dialogue generation**, **facial behavior analysis**, and **real-time deception detection**. Designed to address the limitations of traditional and existing automated methods, InterroSense offers a **scalable**, **explainable**, and **scenario-conditioned interrogation framework** to assist law enforcement officers during suspect evaluation.
 
